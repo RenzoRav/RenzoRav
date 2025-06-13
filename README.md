@@ -75,4 +75,5 @@ PostgreSQL
 
 - ✉️ **Email:** enzosantos657@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/enzo-santos-8575452b9](https://www.linkedin.com/in/enzo-santos-8575452b9/)  
-- 🧑‍💻 **GitHub:** [github.com/RenzoRav](https://github.com/RenzoRav)
+- 🧑‍💻 **GitHub:** [@RenzoRav](https://github.com/RenzoRav)
+
