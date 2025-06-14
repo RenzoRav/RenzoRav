@@ -12,7 +12,7 @@ Sou estudante de Engenharia de Software com interesse em tecnologia, desenvolvim
 
 ### 🎓 Formação
 
-- Graduando em Engenharia de Software - **5º período**
+- Graduando em Engenharia de Software - **4º período**
 
 ---
 
