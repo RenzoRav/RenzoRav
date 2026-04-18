@@ -1,29 +1,26 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=113&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&color=050505&fontColor=222222&fontSize=12&fontAlign=50&fontAlignY=42&text=first+we+shape+the+tools.+then+the+tools+shape+us.&desc=&animation=fadeIn" />
 </div>
 
-###
-
-<p align="center">Well, here we go again.</p>
-
-###
-
-<h2 align="center">Languages</h2>
-
-###
+<br/>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <sub><sup>complexity is the enemy of reliability.</sup></sub>
 </div>
 
-###
+<br/>
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
+<div align="center">
+
+  ![java](https://img.shields.io/badge/java-%23080808.svg?style=for-the-badge&logo=openjdk&logoColor=252535)
+  ![c++](https://img.shields.io/badge/c++-%23080808.svg?style=for-the-badge&logo=cplusplus&logoColor=252535)
+  ![c#](https://img.shields.io/badge/c%23-%23080808.svg?style=for-the-badge&logo=csharp&logoColor=252535)
+
 </div>
 
-###
+<br/>
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=050505&fontColor=111111&fontSize=10&fontAlign=50&fontAlignY=55&text=//+silence+is+also+code" />
+</div>
